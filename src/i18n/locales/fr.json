@@ -1,0 +1,48 @@
+{
+    "nav": {
+      "login": "Connexion",
+      "signup": "S'inscrire",
+      "home": "Accueil"
+    },
+    "hero": {
+      "title": "Votre Santé est Notre",
+      "highlight": "Priorité Absolue",
+      "description": "Découvrez des services de santé de classe mondiale avec notre équipe de médecins experts. Nous fournissons des soins médicaux complets en mettant l'accent sur le confort et le rétablissement des patients.",
+      "getStarted": "Commencer",
+      "login": "Connexion"
+    },
+    "features": {
+      "title": "Pourquoi Nous Choisir",
+      "subtitle": "Nous fournissons des services de santé complets avec des installations modernes",
+      "easyAppointments": {
+        "title": "Rendez-vous Faciles",
+        "description": "Prenez rendez-vous en ligne en quelques clics"
+      },
+      "support": {
+        "title": "Support 24/7",
+        "description": "Support médical permanent pour les urgences"
+      },
+      "experts": {
+        "title": "Médecins Experts",
+        "description": "Professionnels de santé qualifiés et expérimentés"
+      },
+      "records": {
+        "title": "Dossiers Numériques",
+        "description": "Dossiers médicaux numériques sécurisés"
+      }
+    },
+    "admin": {
+      "title": "Gérer les Rendez-vous",
+      "search": "Rechercher des rendez-vous...",
+      "status": {
+        "all": "Tous les statuts",
+        "pending": "En attente",
+        "approved": "Approuvé",
+        "cancelled": "Annulé"
+      },
+      "sort": {
+        "date": "Trier par date",
+        "status": "Trier par statut"
+      }
+    }
+  }

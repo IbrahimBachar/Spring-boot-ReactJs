@@ -1,0 +1,48 @@
+{
+    "nav": {
+      "login": "Login",
+      "signup": "Sign Up",
+      "home": "Home"
+    },
+    "hero": {
+      "title": "Your Health is Our",
+      "highlight": "Top Priority",
+      "description": "Experience world-class healthcare services with our team of expert doctors. We provide comprehensive medical care with a focus on patient comfort and recovery.",
+      "getStarted": "Get Started",
+      "login": "Login"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "subtitle": "We provide comprehensive healthcare services with modern facilities",
+      "easyAppointments": {
+        "title": "Easy Appointments",
+        "description": "Schedule appointments online with just a few clicks"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Round-the-clock medical support for emergencies"
+      },
+      "experts": {
+        "title": "Expert Doctors",
+        "description": "Qualified and experienced medical professionals"
+      },
+      "records": {
+        "title": "Digital Records",
+        "description": "Secure digital health records and history"
+      }
+    },
+    "admin": {
+      "title": "Manage Appointments",
+      "search": "Search appointments...",
+      "status": {
+        "all": "All Status",
+        "pending": "Pending",
+        "approved": "Approved",
+        "cancelled": "Cancelled"
+      },
+      "sort": {
+        "date": "Sort by Date",
+        "status": "Sort by Status"
+      }
+    }
+  }
